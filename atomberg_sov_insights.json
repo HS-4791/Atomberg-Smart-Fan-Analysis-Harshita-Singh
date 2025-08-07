@@ -1,0 +1,38 @@
+{
+  "analysis_date": "2025-08-07T12:52:31.726919",
+  "keywords_analyzed": [
+    "smart fan india",
+    "ceiling fan BLDC",
+    "energy efficient fan",
+    "atomberg fan review"
+  ],
+  "key_findings": {
+    "atomberg_sov": "16.5%",
+    "atomberg_sentiment": "0.72",
+    "market_position": "Strong sentiment with competitive opportunity"
+  },
+  "recommendations": [
+    "Increase content frequency to improve share of voice",
+    "Leverage positive sentiment in marketing campaigns",
+    "Focus on 'smart fan india' keyword optimization",
+    "Create comparison content highlighting efficiency benefits"
+  ],
+  "methodology": {
+    "platforms": [
+      "YouTube",
+      "Google Search"
+    ],
+    "sample_sizes": {
+      "youtube": 15,
+      "google": 10
+    },
+    "brands_tracked": [
+      "Atomberg",
+      "Bajaj",
+      "Crompton",
+      "Havells",
+      "Orient"
+    ],
+    "tool_execution_status": "Enhanced with debugging"
+  }
+}
