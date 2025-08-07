@@ -141,6 +141,4 @@ This project is licensed under the [MIT License](LICENSE).
 **[Harshita Singh]**
 - **Email**: `[harshita.singh4791@gmail.com]`
 - **LinkedIn**: `[www.linkedin.com/in/
-harshita-singh-996853232
-Vanity URL name
-]`
+harshita-singh-996853232]`
